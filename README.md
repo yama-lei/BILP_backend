@@ -8,7 +8,7 @@ license: bsd-3-clause
 
 # BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 
-Model card for BLIP trained on visual question answering- base architecture (with ViT large backbone).
+Model card for BLIP trained on visual question answering- base architecture (with ViT base backbone).
 
 | ![BLIP.gif](https://s3.amazonaws.com/moonup/production/uploads/1670928184033-62441d1d9fdefb55a0b7d12c.gif) |
 |:--:|
