@@ -4,6 +4,9 @@ tags:
 languages:
 - en
 license: bsd-3-clause
+widget:
+- text: "What's the animal doing?"
+  src: "https://huggingface.co/datasets/mishig/sample_images/resolve/main/tiger.jpg"
 ---
 
 # BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
