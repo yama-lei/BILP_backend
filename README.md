@@ -1,7 +1,7 @@
 ---
 pipeline_tag: 'visual-question-answering'
 tags:
-- image-captioning
+- visual-question-answering
 inference: false
 languages:
 - en
