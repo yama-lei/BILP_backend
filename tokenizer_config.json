@@ -3,6 +3,10 @@
   "do_basic_tokenize": true,
   "do_lower_case": true,
   "mask_token": "[MASK]",
+  "model_input_names": [
+    "input_ids",
+    "attention_mask"
+  ],
   "model_max_length": 512,
   "name_or_path": "ybelkada/blip-image-captioning-base",
   "never_split": null,
