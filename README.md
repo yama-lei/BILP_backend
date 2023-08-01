@@ -12,7 +12,7 @@ license: bsd-3-clause
 
 Model card for BLIP trained on visual question answering- base architecture (with ViT base backbone).
 
-| ![BLIP.gif](https://s3.amazonaws.com/moonup/production/uploads/1670928184033-62441d1d9fdefb55a0b7d12c.gif) |
+| ![BLIP.gif](https://cdn-uploads.huggingface.co/production/uploads/1670928184033-62441d1d9fdefb55a0b7d12c.gif) |
 |:--:|
 | <b> Pull figure from BLIP official repo | Image source: https://github.com/salesforce/BLIP </b>|
 
