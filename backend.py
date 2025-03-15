@@ -9,7 +9,7 @@ from transformers import BlipProcessor, BlipForQuestionAnswering
 app = Flask(__name__)
 CORS(app)  # 启用 CORS
 
-model_path = "blip-vqa-base"
+model_path = "./"
 processor = BlipProcessor.from_pretrained(model_path)
 model = BlipForQuestionAnswering.from_pretrained(model_path)
 
